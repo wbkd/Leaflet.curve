@@ -1,0 +1,20 @@
+{
+  "name": "@webk1d/leaflet-curve",
+  "version": "1.0.0",
+  "description": "A Leaflet plugin for drawing Bézier curves and other complex shapes.",
+  "main": "leaflet.curve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkid/Leaflet.curve.git"
+  },
+  "keywords": [
+    "leaflet",
+    "Bezier",
+    "curve",
+    "SVG"
+  ],
+  "license": "MIT"
+}
